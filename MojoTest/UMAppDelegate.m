@@ -25,6 +25,8 @@
     
     [self.dependencies installRootViewControllerIntoWindow:self.window];
     
+    NSLog("test")
+    
     return YES;
 }
 
